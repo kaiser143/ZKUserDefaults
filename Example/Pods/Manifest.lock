@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - ZKUserDefaults (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - ZKUserDefaults (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ZKUserDefaults:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  ZKUserDefaults: 1ac621357ddd464656c0069183029cc27a2242b8
+
+PODFILE CHECKSUM: 4f64a58b9dbbbdcd10c7974efd8b76f629915fa7
+
+COCOAPODS: 1.5.3

@@ -41,7 +41,7 @@
 		1CD7983D74DF8E7A25D7D05A /* Pods-ZKUserDefaults_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZKUserDefaults_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZKUserDefaults_Tests/Pods-ZKUserDefaults_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		257FB39755E5467C10029F7A /* Pods-ZKUserDefaults_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZKUserDefaults_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZKUserDefaults_Example/Pods-ZKUserDefaults_Example.release.xcconfig"; sourceTree = "<group>"; };
 		35AC88C27A522CB3C875CD99 /* Pods-ZKUserDefaults_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZKUserDefaults_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZKUserDefaults_Tests/Pods-ZKUserDefaults_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		4A47A16BE50EB045F3D1AA48 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		4A47A16BE50EB045F3D1AA48 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* ZKUserDefaults_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZKUserDefaults_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -61,12 +61,12 @@
 		6003F5B9195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
-		7108CAADDCE0494AAF1A7F39 /* ZKUserDefaults.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ZKUserDefaults.podspec; path = ../ZKUserDefaults.podspec; sourceTree = "<group>"; };
+		7108CAADDCE0494AAF1A7F39 /* ZKUserDefaults.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ZKUserDefaults.podspec; path = ../ZKUserDefaults.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		73C4ECB53A3649EBF5FA5308 /* Pods_ZKUserDefaults_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZKUserDefaults_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		83BFA4F2C315C82FF77B0AFA /* Pods-ZKUserDefaults_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZKUserDefaults_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ZKUserDefaults_Example/Pods-ZKUserDefaults_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		B5DDE1250C8B9E5A64865E19 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		B5DDE1250C8B9E5A64865E19 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

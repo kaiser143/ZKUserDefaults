@@ -1,0 +1,6 @@
+framework module ZKUserDefaults {
+  umbrella header "ZKUserDefaults-umbrella.h"
+
+  export *
+  module * { export * }
+}
