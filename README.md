@@ -22,8 +22,10 @@ pod 'ZKUserDefaults'
 
 ## Author
 
-zhangkai, 645323904@qq.com
+zhangkai, deyang143@126.com
 
 ## License
 
 ZKUserDefaults is available under the MIT license. See the LICENSE file for more info.
+
+
