@@ -7,6 +7,7 @@
 //
 
 #import "ZKViewController.h"
+#import "ZKUserInfo.h"
 
 @interface ZKViewController ()
 
@@ -18,6 +19,12 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    ZKUserInfo *info = [ZKUserInfo manager];
+    info.name = @"Kaiser";
+    info.userId = @"12";
+    info.age = 12;
+    info.gender = 1;
 }
 
 - (void)didReceiveMemoryWarning

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B038339220146BE00E1DABF /* ZKUserInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B038338220146BE00E1DABF /* ZKUserInfo.m */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
 		6003F592195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
@@ -42,6 +43,8 @@
 		257FB39755E5467C10029F7A /* Pods-ZKUserDefaults_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZKUserDefaults_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZKUserDefaults_Example/Pods-ZKUserDefaults_Example.release.xcconfig"; sourceTree = "<group>"; };
 		35AC88C27A522CB3C875CD99 /* Pods-ZKUserDefaults_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ZKUserDefaults_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ZKUserDefaults_Tests/Pods-ZKUserDefaults_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		4A47A16BE50EB045F3D1AA48 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		4B038337220146BE00E1DABF /* ZKUserInfo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZKUserInfo.h; sourceTree = "<group>"; };
+		4B038338220146BE00E1DABF /* ZKUserInfo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ZKUserInfo.m; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* ZKUserDefaults_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZKUserDefaults_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -140,6 +143,8 @@
 				71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */,
 				6003F5A8195388D20070C39A /* Images.xcassets */,
 				6003F594195388D20070C39A /* Supporting Files */,
+				4B038337220146BE00E1DABF /* ZKUserInfo.h */,
+				4B038338220146BE00E1DABF /* ZKUserInfo.m */,
 			);
 			name = "Example for ZKUserDefaults";
 			path = ZKUserDefaults;
@@ -393,6 +398,7 @@
 				6003F59E195388D20070C39A /* ZKAppDelegate.m in Sources */,
 				6003F5A7195388D20070C39A /* ZKViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
+				4B038339220146BE00E1DABF /* ZKUserInfo.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

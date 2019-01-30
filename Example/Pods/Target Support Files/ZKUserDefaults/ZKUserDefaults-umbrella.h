@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "ZKUserDefaults.h"
 
 FOUNDATION_EXPORT double ZKUserDefaultsVersionNumber;
 FOUNDATION_EXPORT const unsigned char ZKUserDefaultsVersionString[];

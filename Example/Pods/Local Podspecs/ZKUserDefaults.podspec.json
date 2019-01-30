@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of ZKUserDefaults.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/zhangkai/ZKUserDefaults",
+  "homepage": "https://github.com/kaiser143/ZKUserDefaults",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "zhangkai": "645323904@qq.com"
+    "zhangkai": "deyang143@126.com"
   },
   "source": {
-    "git": "https://github.com/zhangkai/ZKUserDefaults.git",
+    "git": "https://github.com/kaiser143/ZKUserDefaults.git",
     "tag": "0.1.0"
   },
   "platforms": {
